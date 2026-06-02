@@ -1,0 +1,222 @@
+[
+  {
+    "description": "Background image illustrating a hair styling service, featuring a model with sleek, styled hair in a modern salon.",
+    "src": "img/cabelos_glam.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/cabelos_glam.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a young woman with smooth, glossy dark brown hair styled in a sleek bob, standing in a contemporary salon with a white marble countertop, brushed‑steel vanity mirror, and soft pendant lighting casting gentle warm light onto a neutral gray textured wall. The scene includes a modern black leather salon chair and a small potted succulent on the counter to add a touch of freshness.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "Background image depicting a manicure service in a bright salon setting, showing hands with polished nails.",
+    "src": "img/unhas_glam.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/unhas_glam.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a woman's hands resting on a white marble countertop in a bright modern nail salon, each nail coated in glossy pastel pink polish. Behind the hands a sleek chrome manicure station holds a clear glass bottle of nail polish, a small vase of green leaves, and soft natural light streams through a large window, illuminating the polished nails.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "Background image showing an eyelash extension procedure, with close‑up of eyes and lashes in a clean salon environment.",
+    "src": "img/cilios_glam.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/cilios_glam.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A close‑up photograph of a woman's right eye while a technician delicately applies individual synthetic eyelash extensions with a fine brush, showcasing the long natural lashes and subtle pinkish‑beige makeup. The setting is a clean beauty salon with light grayish‑white walls, a stainless‑steel workstation, and a glass vial of lashes, illuminated by soft warm light.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "A sophisticated salon interior featuring sleek lighting, modern décor, and an airy, well‑lit space that conveys luxury and comfort.",
+    "src": "img/glam_salon_interior.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/glam_salon_interior.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a spacious salon interior featuring white marble countertops, chrome hair‑styling stations, and floor‑to‑ceiling glass walls that flood the space with natural daylight. A stylist wearing a light gray blazer adjusts a glossy black salon chair beneath a pendant LED light that casts soft, warm illumination over a polished oak floor, while a plush ivory sofa and minimalist wall décor complete the scene.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "High‑resolution photo of the GLAM salon interior used as the hero background, with a subtle blur and dark overlay for a sophisticated look.",
+    "src": "img/salon_glam_hero.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/salon_glam_hero.png",
+    "wp_src": "",
+    "aspect_ratio": "widescreen",
+    "generated_url": "",
+    "prompt": "A photograph of a modern beauty salon interior featuring polished light‑gray wooden flooring, white marble countertops, sleek black styling chairs, large wall‑mounted mirrors, and a row of pendant lamps emitting warm amber light; the scene is captured from a slightly elevated angle, with a gentle depth‑of‑field blur that smooths the background while keeping the arrangement of chairs and mirrors recognizable, and a faint soft‑black overlay tone applied to enhance contrast.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "A high‑end beauty service scene showing stylists performing premium treatments with elegant tools and premium products, highlighting the salon’s expertise.",
+    "src": "img/glam_beauty_services.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/glam_beauty_services.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a spacious salon interior with polished marble countertops, brushed‑steel tool stations, and large windows letting in soft natural light. A female stylist in a tailored black dress coat applies a hair mask with a ceramic flat iron while a second stylist in a white blouse arranges crystal‑clear bottles of serum and performs a manicure on a client seated in a comfortable leather chair.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "Luxurious salon interior with elegant lighting, sleek furnishings and a sophisticated ambience, showcasing a spacious, well‑designed environment.",
+    "src": "img/salon_interior_main.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/salon_interior_main.png",
+    "wp_src": "",
+    "aspect_ratio": "widescreen",
+    "generated_url": "",
+    "prompt": "A photograph of a spacious salon interior with polished marble flooring, tall floor‑to‑ceiling windows letting in soft natural light, and a row of modern white leather chairs arranged around glossy black workstations. Above the stations hang crystal chandelier pendants that cast warm, focused illumination onto a central marble reception desk, while a large mirror framed in brushed metal reflects the scene. A stylist in a tailored black apron is styling a client’s hair, adding subtle motion to the refined atmosphere.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "Elegant makeup and micropigmentation area showing precise equipment and a calm, well‑lit setting for natural‑looking results.",
+    "src": "img/makeup_micropigmentation.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/makeup_micropigmentation.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a sleek treatment room featuring a white marble countertop, a high‑gloss black ergonomic chair, and a stainless‑steel tray arranged with makeup brushes, disposable sponges, and fine‑tip micropigmentation pens. Soft daylight filters through a large frosted window while a cool‑white LED panel provides even illumination, and a calm female client with natural makeup sits relaxed, her eyes gently closed. In the background, pastel‑blue wall panels and a subtle green potted plant add a soothing touch.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "Modern hair‑styling station featuring a polished workstation, contemporary chairs and high‑end equipment, bathed in soft, studio lighting.",
+    "src": "img/hair_styling_station.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/hair_styling_station.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a sleek hair‑styling station in a salon, with a gleaming white workstation topped by brushed stainless‑steel handles, a set of professional hair‑dryers, straighteners and curling irons neatly arranged on a mirrored surface, and an ergonomic black leather swivel chair positioned beside it; the scene is bathed in soft, diffused studio lighting that creates gentle shadows and highlights the polished surfaces, with a subtle pastel‑blue wall backdrop.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "Relaxing massage therapy room with muted tones, soft lighting and comfortable treatment table, emphasizing wellness and tranquility.",
+    "src": "img/massage_therapy_room.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/massage_therapy_room.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a serene massage therapy room featuring a low wooden platform floor in muted taupe, pale gray painted walls, and a comfortable treatment table draped with smooth ivory linen. Soft amber lighting from recessed sconces casts gentle light on a small potted lavender plant and a glass diffuser on a bedside table, while rolled white towels are stacked at the foot of the table.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  },
+  {
+    "description": "Clean manicure and pedicure studio with bright worktops, organized tools and a refined, hygienic atmosphere.",
+    "src": "img/nail_art_studio.png",
+    "cloud_src": "https://wpvc-images.s3.us-east-1.amazonaws.com/images/1691607/img/nail_art_studio.png",
+    "wp_src": "",
+    "aspect_ratio": "landscape",
+    "generated_url": "",
+    "prompt": "A photograph of a modern nail salon interior with bright white marble worktops under soft white LED lighting. A stainless‑steel tray neatly holds nail files, cuticle pushers, and rows of pastel nail‑polish bottles, while a polished foot‑bath sits beside a sleek ergonomic chair, and glass shelves display labeled containers of tools against a clean tiled floor.",
+    "generation_status": "generated",
+    "type": "image",
+    "subtype": "generic",
+    "is_website_logo": false,
+    "logo_text": "",
+    "logo_color": "rgb(0, 0, 0)",
+    "logo_font": null,
+    "used_in": {
+      "posts_featured": {},
+      "terms": {}
+    }
+  }
+]

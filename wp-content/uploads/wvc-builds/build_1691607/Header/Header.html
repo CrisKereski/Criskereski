@@ -1,0 +1,27 @@
+<div id="header-root" class=""><section data-section-id="265048" id="cabeçalho" class="sticky top-0 z-50 w-full border-b transition-all duration-300 text-foreground border-border/40 bg-background"><div class="container mx-auto px-4 md:px-6"><div class="flex h-20 items-center justify-between"><div class="flex-shrink-0"><a href="/" class="flex items-center gap-2 transition-opacity hover:opacity-90"></a></div><div class="hidden flex-1 items-center justify-center md:flex"><div data-wvc-dynamic="MenuProvider" data-wvc-menu_id="16"><div class="flex gap-4"><div data-index="0" class="h-9 w-20 animate-pulse rounded-md bg-muted"></div><div data-index="1" class="h-9 w-20 animate-pulse rounded-md bg-muted"></div><div data-index="2" class="h-9 w-20 animate-pulse rounded-md bg-muted"></div><div data-index="3" class="h-9 w-20 animate-pulse rounded-md bg-muted"></div></div></div></div><div class="hidden flex-shrink-0 md:flex"><a href="https://wa.me/5551981819145" data-slot="button" class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&#x27;size-&#x27;])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive h-9 px-4 py-2 has-[&gt;svg]:px-3 font-default font-semibold shadow-md bg-primary text-primary-foreground hover:bg-primary/90 rounded-lg">Agendar meu horário</a></div><div class="flex items-center md:hidden"><button data-slot="button" class="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&#x27;size-&#x27;])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 size-9 text-foreground" aria-label="Toggle menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu h-6 w-6" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg></button></div></div></div></section></div>
+
+<script type="text/javascript">
+    window.addEventListener("load", function () {
+        const root = document.getElementById("header-root");
+        if (!root) return;
+
+        const api = window["HeaderVC"];
+        if (!api) {
+            console.error("HeaderVC is not available");
+            return;
+        }
+
+        let initial = window.__VC_PROPS__?.["HeaderVC"] || {};
+        const ssrUrl = "header" === "home"
+            ? "/"
+            : "/" + "header";
+
+        initial.router ??= "memory";
+        initial.initialEntries ??= [ssrUrl];
+
+        const hasSSR = root.childElementCount > 0;
+
+        if (hasSSR) api.hydrate(root, initial);
+        else api.mount(root, initial);
+    });
+</script>
